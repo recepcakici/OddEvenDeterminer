@@ -7,7 +7,7 @@ Usage
 -----
 
 1. Ensure that you have Python installed on your system.
-2. Clone this repository or download the `odd_even_checker.py` file.
+2. Clone this repository or download the `first_odd_even_checker.py` file.
 3. Open a terminal or command prompt and navigate to the directory where the script is located.
 4. Run the script by executing the following command: `python odd_even_checker.py`
 5. Enter a number when prompted.
