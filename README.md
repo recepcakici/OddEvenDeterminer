@@ -16,10 +16,8 @@ Usage
 Example
 -------
 
-$python odd_even_checker.py
-
+$ python odd_even_checker.py
 Enter a number to determine if it is odd or even: 7
-
 The entered number is odd.
 
 Contributing
