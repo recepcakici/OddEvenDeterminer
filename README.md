@@ -1,28 +1,26 @@
-# OddEvenDeterminer
-This code determines if a given number is odd or even. It prompts for a number, checks if it's odd, and prints the result.
+Odd or Even Number Checker
+--------------------------
 
-# Odd or Even Number Checker
+This Python script determines whether a given number is odd or even. It provides a simple way to check the parity of a number.
 
-This is a simple Python script that determines whether a given number is odd or even. It prompts the user to enter a number, checks if the number is odd, and provides the result.
+Usage
+-----
 
-## Usage
-
-1. Make sure you have Python installed on your machine.
+1. Ensure that you have Python installed on your system.
 2. Clone this repository or download the `odd_even_checker.py` file.
-3. Open a terminal or command prompt and navigate to the directory containing the script.
-4. Run the script by executing the following command:
-
-  python odd_even_checker.py
-
+3. Open a terminal or command prompt and navigate to the directory where the script is located.
+4. Run the script by executing the following command: `python odd_even_checker.py`
 5. Enter a number when prompted.
 6. The script will determine if the number is odd or even and display the result.
 
-## Example
+Example
+-------
 
 $ python odd_even_checker.py
 Enter a number to determine if it is odd or even: 7
 The entered number is odd.
 
-## Contributing
+Contributing
+------------
 
-Contributions to enhance the functionality or improve the code are welcome!
+Contributions to enhance the functionality or improve the code are welcome! If you have any suggestions or find any issues, please open an issue or submit a pull request.
